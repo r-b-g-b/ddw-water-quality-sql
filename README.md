@@ -10,9 +10,7 @@ Build the image using:
 docker build -t edt-db .
 ```
 
-An image is a set of instructions for building a perfectly configured computer. But you can't actually do anything useful until you use those instructions to make a container.
-
-Next, create and instance of that container. Containers are flesh-and-blood computer services that actually do things like run software, host services, etc.
+An image is a set of instructions for building a perfectly configured computer. But you can't actually do anything useful until you use those instructions to make a container. So next, we create and instance of that container. Containers are actual (virtual) computer services that do actual things like run software, host services, etc.
 
 
 ```shell
